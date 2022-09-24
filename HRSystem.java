@@ -23,7 +23,7 @@ import javafx.stage.Stage;
 
 /**
  *
- * @author Hello
+ * @author Hamo
  */
 public class HRSystem extends Application {
     boolean access = false, nameT = false, titleT = false, ageT = false, salaryT = false, borrowT = false, dayT = false, balanceT = false;
